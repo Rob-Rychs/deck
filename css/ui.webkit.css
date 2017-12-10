@@ -369,7 +369,7 @@ DEALINGS IN THE SOFTWARE.
 				
 				.item:hover {transform:scale(1.01); z-index: 100;} 
 				
-				/* sits within page content, click to navigate to next page in sequence */
+				/* sits within page content, click to navigate to prev/next page in sequence */
 				.item a.next-page{
 					display: inline-block;
 					text-decoration: none;
@@ -377,8 +377,18 @@ DEALINGS IN THE SOFTWARE.
 					border-radius: 5em;
 					z-index: 2000;
 					box-shadow: 0 3px 8px rgba(0,0,0,.2);
-					
-					
+					outline: none;
+				}
+
+				.item a.prev-page{
+					display: block;
+					text-decoration: none;
+					padding: 1em .75em;
+					border-radius: 5em;
+					z-index: 2000;
+					box-shadow: 0 3px 8px rgba(0,0,0,.2);
+					outline: none;
+					margin: 75px; /* added this to fix the button overlap */
 				}
 				
 				/* fills grid cell, click to navigate to parent page */
