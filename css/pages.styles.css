@@ -82,6 +82,20 @@ DEALINGS IN THE SOFTWARE.
 		#item10	.layout a.next-page {color: black; background: white;}
 		#item11	.layout a.next-page {color: black; background: white;}
 		#item12	.layout a.next-page {color: black; background: white;}
+
+		/* Copied right from above and just repeated for the back buttons */
+		#item1	.layout a.prev-page {color: white; background: black;}
+		#item2	.layout a.prev-page {color: black; background: white;}
+		#item3	.layout a.prev-page {color: black; background: white;}
+		#item4	.layout a.prev-page {color: black; background: white;}
+		#item5	.layout a.prev-page {color: white; background: black;}
+		#item6	.layout a.prev-page {color: black; background: white;}
+		#item7	.layout a.prev-page {color: white; background: black;}
+		#item8	.layout a.prev-page {color: black; background: white;}
+		#item9	.layout a.prev-page {color: black; background: white;}
+		#item10	.layout a.prev-page {color: black; background: white;}
+		#item11	.layout a.prev-page {color: black; background: white;}
+		#item12	.layout a.prev-page {color: black; background: white;}
 		
 		/* used for two col page*/
 		@media screen and (max-width: 32em){
