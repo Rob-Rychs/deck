@@ -1,6 +1,6 @@
-# Deck
+# Deckvelop
 
-This repo started out with SMASHING MAGAZINES 2017 CSS GRID CHALLENGE CONTEST WINNER by James Clarke
+This repo started out with SMASHING MAGAZINES 2017 CSS GRID CHALLENGE CONTEST WINNER by James Clarke titled Deck
 
 It features a no-JS SPA design using HTML5 and CSS3 only. It breaks gracefully. It's Super lightweight. Uses a nice animation between slides. This webiste makes a super quick, performant and beautiful portfolio or showcase gallery for artists or designers.
 
@@ -11,7 +11,7 @@ Fun to hack apart for learning and it's relatively easy to extend.
 Features I've added:
 
 - Back button for slide navigation
-- Register a SW for offline support (implemented with [UpUp]('https://github.com/TalAter/UpUp') )
+- Register a SW for offline support (implemented with [UpUp](https://github.com/TalAter/UpUp) )
 
 Features I'm gonna add:
 
