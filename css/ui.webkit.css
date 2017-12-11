@@ -257,6 +257,19 @@ DEALINGS IN THE SOFTWARE.
 					#p11:target ~ .grid > #item1 .focus-page,	
 					#p12:target ~ .grid > #item1 .focus-page {display:block; z-index:2000;} 
 				
+					/* TODO: experiment to highlight menu based on location, assign an id to a tag in menu and apply hover styles?? 
+					#p1:target #p-1 { border-bottom: 1px solid #0070ff;}
+					#p2:target #p-2 { border-bottom: 1px solid #0070ff;}
+					#p3:target #p-3 { border-bottom: 1px solid #0070ff;}
+					#p4:target #p-4 { border-bottom: 1px solid #0070ff;}
+					#p5:target #p-5 { border-bottom: 1px solid #0070ff;}
+					#p6:target #p-6 { border-bottom: 1px solid #0070ff;}
+					#p7:target #p-7 { border-bottom: 1px solid #0070ff;}
+					#p8:target #p-8 { border-bottom: 1px solid #0070ff;}
+					#p9:target #p-9 { border-bottom: 1px solid #0070ff;}
+					#p10:target #p-10 { border-bottom: 1px solid #0070ff;}
+					#p11:target #p-11 { border-bottom: 1px solid #0070ff;}
+					#p12:target #p-12 { border-bottom: 1px solid #0070ff;} */
 				
 				/* remove focus link from selected page */	
 				#p1:target ~ .grid > #item1 .focus-page {display:none;} 
