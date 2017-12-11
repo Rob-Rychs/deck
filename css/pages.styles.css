@@ -32,16 +32,17 @@ DEALINGS IN THE SOFTWARE.
 		/* backgrounds */			
 		#item1 {background: #fff url() no-repeat 0 0; background-size:contain;}
 		#item2 {background: #eb0000 url() no-repeat 0 0; background-size:contain; color: white;}
-		#item3 {background: #01165f url() no-repeat 0 0; background-size:contain; color: white;}
-		#item4 {background: #fff url() no-repeat right 0; background-size:contain;}
-		#item5 {background: #fff url() no-repeat 0 0; background-size:contain;}
-		#item6 {background: #02249f url() no-repeat 0 0; background-size:contain; color: white;}
-		#item7 {background: #fff url() no-repeat center center; background-size:60%;}
-		#item8 {background: #eb0000 url() no-repeat 0 0; background-size:contain; color: white;}
-		#item9 {background: #fff;}
-		#item10 {background: #02249f;}
-		#item11 {background: #000 url() no-repeat 0 0; background-size:contain; color: white;}
+		#item3 {background: #fff url() no-repeat 0 0; background-size:contain;} /* changed from background: #01165f color: white;*/
+		#item4 {background: #01165f url() no-repeat 0 0; background-size:contain; color: white;} /*bumped all #item from here down one */
+		#item5 {background: #fff url() no-repeat right 0; background-size:contain;}
+		#item6 {background: #fff url() no-repeat 0 0; background-size:contain;}
+		#item7 {background: #02249f url() no-repeat 0 0; background-size:contain; color: white;}
+		#item8 {background: #fff url() no-repeat center center; background-size:60%;}
+		#item9 {background: #eb0000 url() no-repeat 0 0; background-size:contain; color: white;}
+		#item10 {background: #fff;}
+		#item11 {background: #02249f;}
 		#item12 {background: #000 url() no-repeat 0 0; background-size:contain; color: white;}
+		#item13 {background: #000 url() no-repeat 0 0; background-size:contain; color: white;}
 		
 		
 		
